@@ -9,4 +9,4 @@ User-agent: *
 Allow: /
 
 # Especificando o sitemap do site
-Sitemap: https://economiacasan.vercel.app/sitemap.xml
+Sitemap: https://aguasdorio.vercel.app/sitemap.xml
